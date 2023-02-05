@@ -7,7 +7,7 @@ A test ecommerce application, still under construction.
 ## How to run the build locally
 
 - Clone this repository
-- Run `docker-compose up --build nginx`
+- Run `docker-compose up --build`
 
 **🚨 Remember, before a new build delete the volumes**
 
